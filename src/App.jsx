@@ -1,7 +1,7 @@
 import './App.css'
 
 function App() {
-
+  // JSX code goes here
   return (
     <>
       <h1>Github Actions</h1>
